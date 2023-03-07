@@ -60,11 +60,6 @@ body .habilidades .contLogos .logos {
   width: 150px;
   height: 150px;
 }
-body .footer {
-  grid-area: footer;
-  display: flex;
-  justify-content: space-around;
-}
 body #particles-js {
   height: 100vh;
   width: 100%;
